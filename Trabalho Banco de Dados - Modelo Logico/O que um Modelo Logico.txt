@@ -1,0 +1,1 @@
+O Modelo Lógico de Banco de Dados é a etapa em que o Modelo Conceitual (MER) é transformado em uma estrutura lógica, representando como os dados serão organizados em tabelas, mas ainda sem considerar características específicas de um Sistema Gerenciador de Banco de Dados (SGBD), como MySQL, PostgreSQL ou SQL Server.
